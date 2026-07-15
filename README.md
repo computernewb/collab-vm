@@ -10,7 +10,7 @@ CollabVM is fully open source and you can find the source code in the following 
 
 * [collabvm-1.2.ts](https://github.com/computernewb/collabvm-1.2.ts) - The backend server for CollabVM, written in TypeScript with some Rust modules. It handles pretty much all of the behind-the-scenes magic that makes CollabVM work.
 
-* [collab-vm-web-app](https://github.com/computernewb/collab-vm-web-app) - This contains the source to the CollabVM webapp, which is the public frontend accessible on our website.
+* [collab-vm-1.2-web-app](https://github.com/computernewb/collab-vm-1.2-web-app) - This contains the source to the CollabVM webapp, which is the public frontend accessible on our website.
 
 ## Requirements for hosting
 * The CollabVM Server is officially targeted to the latest releases of Debian and Arch Linux, and officially supports any modern Linux distro. While it technically can run on Windows, we do not support this.
